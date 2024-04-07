@@ -69,6 +69,7 @@ sections:
           location: UTD
           date_start: '2021 - Present'
           date_end: ''
+          description: 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
