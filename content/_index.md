@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Studies Scholarship
+        - title: 'Graduate Studies Scholarship'
           company: 'EPPS'
           company_url: ''
           #company_logo: org-gc
@@ -75,7 +75,7 @@ sections:
             #  * Analysing
              # * Modelling
               #* Deploying
-          - title: Conference Grant
+          - title: 'Conference Grant'
           company: 'Institute for Humane Studies (IHS)'
           company_url: ''
           #company_logo: org-x
@@ -83,7 +83,7 @@ sections:
           date_start: '2024'
           #date_end: '2020-12-31'
           #description: Taught electronic engineering and researched semiconductor physics.
-        - title: The Government and Political Science Fellowship
+        - title: 'The Government and Political Science Fellowship'
           company: 'EPPS'
           company_url: ''
           #company_logo: org-x
