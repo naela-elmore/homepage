@@ -39,12 +39,12 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: Language & Skills
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -130,7 +130,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Teaching
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -155,9 +155,9 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: research projects
     content:
-      title: Projects
+      title: Research Projects
       filters:
         folders:
           - project
@@ -177,18 +177,18 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+ # - block: markdown
+  #  content:
+   #   title: Gallery
+    #  subtitle: ''
+     # text: |-
+      #  {{< gallery album="demo" >}}
+    #design:
+     # columns: '1'
   - block: collection
     id: featured
     content:
@@ -224,50 +224,50 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: tag_cloud
+   # content:
+    #  title: Popular Topics
+    #design:
+     # columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact Me!
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+     # text: |-
+      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: naela.elmore@utdallas.edu
+      #phone: 888 888 88 88
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 2800 W. Campbell Road
+        city: Richardson
+        region: TX
+        postcode: '75080'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      #coordinates:
+       # latitude: '37.4275'
+        #longitude: '-122.1697'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/naelaelmore'
+       # - icon: skype
+        #  icon_pack: fab
+         # name: Skype Me
+          #link: 'skype:echo123?call'
+        #- icon: video
+         # icon_pack: fas
+          #name: Zoom Me
+          #link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
