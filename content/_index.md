@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '3'
+      columns: '2'
   - block: experience
     content:
       title: Scholarships, Grants, and Fellowships
@@ -62,27 +62,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Studies Scholarship
+          company: EPPS
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+          #company_logo: org-gc
+          location: UTD
+          date_start: '2021 - Present'
+          #date_end: ''
+          #description: |2-
+           #   Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+            #  * Analysing
+             # * Modelling
+              #* Deploying
+          - title: Conference Grant
+          company: Institute for Humane Studies (IHS)
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #company_logo: org-x
+          location: George Mason University
+          date_start: '2024'
+          #date_end: '2020-12-31'
+          #description: Taught electronic engineering and researched semiconductor physics.
+        - title: The Government and Political Science Fellowship
+          company: EPPS
+          company_url: ''
+          #company_logo: org-x
+          location: UTD
+          date_start: '2023'
+          #date_end: '2020-12-31'
+          #description: Taught electronic engineering and researched semiconductor physics.
+        - title: CONNECT Fellowship
+          company: EPPS
+          company_url: ''
+          #company_logo: org-x
+          location: UTD
+          date_start: '2022'
+          #date_end: '2020-12-31'
+          #description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
