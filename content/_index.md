@@ -51,10 +51,11 @@ sections:
     design:
       columns: '2'
   
+  #Teaching
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Teaching Experience
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -81,7 +82,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research Projects
       filters:
         folders:
           - project
@@ -96,23 +97,15 @@ sections:
         - name: All
           tag: '*'
         - name: Deep Learning
-          tag: Deep Learning
+          tag: '*'
         - name: Other
-          tag: Demo
+          tag: '*'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -148,18 +141,13 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact Me!
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #text: |-
+        #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
