@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: UTD
-          date_start: '2021 - Present'
+          date_start: '2021'
           date_end: ''
           description: 
         - title: Professor of Semiconductor Physics
