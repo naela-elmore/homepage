@@ -65,16 +65,10 @@ sections:
         - title: Graduate Studies Scholarship
           company: EPPS
           company_url: ''
-          #company_logo: org-gc
+          company_logo: org-gc
           location: UTD
           date_start: '2021 - Present'
           #date_end: ''
-          #description: |2-
-           #   Responsibilities include:
-
-            #  * Analysing
-             # * Modelling
-              #* Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
