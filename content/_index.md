@@ -63,10 +63,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Studies Scholarship
-          company: EPPS
+          company: 'EPPS'
           company_url: ''
           #company_logo: org-gc
-          location: UTD
+          location: 'UTD'
           date_start: '2021 - Present'
           #date_end: ''
           #description: |2-
@@ -76,26 +76,26 @@ sections:
              # * Modelling
               #* Deploying
           - title: Conference Grant
-          company: Institute for Humane Studies (IHS)
+          company: 'Institute for Humane Studies (IHS)'
           company_url: ''
           #company_logo: org-x
-          location: George Mason University
+          location: 'George Mason University'
           date_start: '2024'
           #date_end: '2020-12-31'
           #description: Taught electronic engineering and researched semiconductor physics.
         - title: The Government and Political Science Fellowship
-          company: EPPS
+          company: 'EPPS'
           company_url: ''
           #company_logo: org-x
-          location: UTD
+          location: 'UTD'
           date_start: '2023'
           #date_end: '2020-12-31'
           #description: Taught electronic engineering and researched semiconductor physics.
-        - title: CONNECT Fellowship
-          company: EPPS
+        - title: 'CONNECT Fellowship'
+          company: 'EPPS'
           company_url: ''
           #company_logo: org-x
-          location: UTD
+          location: 'UTD'
           date_start: '2022'
           #date_end: '2020-12-31'
           #description: Taught electronic engineering and researched semiconductor physics.
