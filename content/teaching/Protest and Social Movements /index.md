@@ -11,7 +11,7 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ```
 
     
-![png](output_1_0.png)
+![png](output_1_0.jpg)
     
 
 ```python
