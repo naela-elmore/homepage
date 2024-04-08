@@ -20,7 +20,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Middle East Law and Governance"
-publication_short: "BRILL"
+publication_short: "Middle East Law and Governance (BRILL)"
 
 abstract: The covid-19 pandemic has pressured governments to respond with restrictive and health resource-oriented policies to contain the spread of the virus. The aim of this paper is to assess differential policy implementation due to state fragility with a spatial scope of the Middle Eastern region. The policies implemented by the four strongest and six most fragile Middle Eastern countries were extracted from the CoronaNet Government Response Database and grouped into restrictive and resource-oriented categories. Clustering based on these categories informed dyadic analysis. Drawing from the Oxford Government Response Policy Tracker and covid-19 World Symptom Survey, we found that fragile states tended to be characterized by a higher proportion of restrictive policies, lower government stringency, and lower compliance. The results identify sectors that would benefit most from humanitarian aid and raise the issue of whether restrictions are disproportionately implemented due to covert political agendas or lack of political and economic power.
 
@@ -52,11 +52,6 @@ url_pdf: https://brill.com/view/journals/melg/14/1/article-p26_003.xml
 projects:
 - internal-project
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+
 ---
 
