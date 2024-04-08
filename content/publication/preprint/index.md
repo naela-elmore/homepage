@@ -1,12 +1,17 @@
 ---
-title: "An example preprint / working paper"
+title: "Dyadic Analysis of Fragile Middle Eastern States and Humanitarian Implications of Restrictive covid-19 Policies"
 authors:
+- Daniel Habib
 - admin
-date: "2019-04-07T00:00:00Z"
+- Seth Gulas
+- Nathan Ruhde
+- Daniel Mathew
+- Nicholas Parente
+date: "2022-03-30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Middle East Law and Governance"
+publication_short: "BRILL"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The covid-19 pandemic has pressured governments to respond with restrictive and health resource-oriented policies to contain the spread of the virus. The aim of this paper is to assess differential policy implementation due to state fragility with a spatial scope of the Middle Eastern region. The policies implemented by the four strongest and six most fragile Middle Eastern countries were extracted from the CoronaNet Government Response Database and grouped into restrictive and resource-oriented categories. Clustering based on these categories informed dyadic analysis. Drawing from the Oxford Government Response Policy Tracker and covid-19 World Symptom Survey, we found that fragile states tended to be characterized by a higher proportion of restrictive policies, lower government stringency, and lower compliance. The results identify sectors that would benefit most from humanitarian aid and raise the issue of whether restrictions are disproportionately implemented due to covert political agendas or lack of political and economic power.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
