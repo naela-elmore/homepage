@@ -6,19 +6,19 @@ subtitle: 'Spring 2023'
 summary: This course provides students with a comprehensive overview of the fundamental theories, methodologies, and empirical research in the field of comparative politics. Topics covered include state-society relations, political institutions, democratization processes, and comparative methodologies.
 
 # Link this post with a project
-projects: [teaching]
+projects: 
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+#date: '2020-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-05-13'
 
 # Is this an unpublished draft?
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
