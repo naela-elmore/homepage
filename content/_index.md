@@ -65,7 +65,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - posts
+          - teaching
         author: ""
         category: ""
         tag: ""
