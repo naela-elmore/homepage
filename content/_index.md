@@ -66,7 +66,9 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - teaching
+          - CP
+          - Protest and Social Movements
+          
         author: "admin"
         category: ""
         tag: ""
