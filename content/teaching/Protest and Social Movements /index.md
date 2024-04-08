@@ -3,7 +3,7 @@ title: Protest and Social Movements
 subtitle: 'Summer 2023, 2024'
 
 # Summary for listings and search engines
-summary: This course provides students with a comprehensive overview of the fundamental theories, methodologies, and empirical research in the field of comparative politics. Topics covered include state-society relations, political institutions, democratization processes, and comparative methodologies.
+summary: In this course, students explore the dynamics, strategies, and impacts of protests and social movements across different regions and historical contexts. By examining case studies and theoretical frameworks, students gain insight into the role of social mobilization in effecting political change and shaping collective identities.
 
 # Link this post with a project
 #projects: 
@@ -42,4 +42,4 @@ tags:
 ---
 
 # Course Summary
-This course provides students with a comprehensive overview of the fundamental theories, methodologies, and empirical research in the field of comparative politics. Topics covered include state-society relations, political institutions, democratization processes, and comparative methodologies.
+In this course, students explore the dynamics, strategies, and impacts of protests and social movements across different regions and historical contexts. By examining case studies and theoretical frameworks, students gain insight into the role of social mobilization in effecting political change and shaping collective identities.
