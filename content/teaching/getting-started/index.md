@@ -1,9 +1,9 @@
 ---
-title: Welcome to Hugo Blox Builder, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Comparative Politics
+subtitle: 'Spring 2023'
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: This course provides students with a comprehensive overview of the fundamental theories, methodologies, and empirical research in the field of comparative politics. Topics covered include state-society relations, political institutions, democratization processes, and comparative methodologies.
 
 # Link this post with a project
 projects: []
