@@ -57,13 +57,15 @@ sections:
     content:
       title: Teaching Experience
       subtitle: ''
-      text: ''
+      text: 'In my role as an educator, I have had the privilege of designing and instructing three distinct courses, each tailored to cultivate a deep understanding of key concepts in comparative politics and the dynamics of protests and social movements.
+      
+      My teaching philosophy centers on fostering critical thinking, analytical skills, and a nuanced understanding of global political systems among students. Through engaging lectures, interactive discussions, and innovative assignments, I aim to empower learners to analyze complex political phenomena, evaluate diverse perspectives, and develop informed opinions.'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
       filters:
         folders:
-          - post
+          - posts
         author: ""
         category: ""
         tag: ""
@@ -85,7 +87,7 @@ sections:
       title: Research Projects
       filters:
         folders:
-          - project
+          - projects
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
