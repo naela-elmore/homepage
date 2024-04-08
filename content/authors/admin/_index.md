@@ -24,7 +24,7 @@ organizations:
     url: https://epps.utdallas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests revolve around the intersection of social resistance dynamics, autocratic behavior, and traditional and digital repression in political activism, with a regional focus on the Southwest Asian and North African (SWANA) region region. 
+bio: My research interests revolve around the intersection of social resistance dynamics, autocratic behavior, and traditional and digital repression in political activism, with a regional focus on the Southwest Asian and North African (SWANA) region. 
 
 
 
