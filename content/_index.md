@@ -59,14 +59,14 @@ sections:
       subtitle: ''
       text: 'In my role as an educator, I have had the privilege of designing and instructing two distinct courses, each tailored to cultivate a deep understanding of key concepts within comparative politics and the dynamics of protests and social movements.
       
-      My teaching philosophy centers on fostering critical thinking, analytical skills, and a nuanced understanding of global political systems among students. Through engaging lectures, interactive discussions, and innovative assignments, I aim to empower learners to analyze complex political phenomena, evaluate diverse perspectives, and develop informed opinions.' {style="text-align: justify;"}
+      My teaching philosophy centers on fostering critical thinking, analytical skills, and a nuanced understanding of global political systems among students. Through engaging lectures, interactive discussions, and innovative assignments, I aim to empower learners to analyze complex political phenomena, evaluate diverse perspectives, and develop informed opinions.' 
 
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
       filters:
         folders:
-          - posts
+          - teaching
         author: ""
         category: ""
         tag: ""
