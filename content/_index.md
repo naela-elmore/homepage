@@ -62,7 +62,7 @@ sections:
       My teaching philosophy centers on fostering critical thinking, analytical skills, and a nuanced understanding of global political systems among students. Through engaging lectures, interactive discussions, and innovative assignments, I aim to empower learners to analyze complex political phenomena, evaluate diverse perspectives, and develop informed opinions.' 
 
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:
@@ -80,7 +80,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: list
       columns: '2'
 
 #Research Projects
