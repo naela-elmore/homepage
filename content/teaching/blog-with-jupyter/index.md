@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Protest and Social Movements
+date: 'Summer 2023, 2024'
+summary: I taught this class 
 ---
 
 
