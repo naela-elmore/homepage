@@ -67,7 +67,7 @@ sections:
       filters:
         folders:
           - teaching
-        author: ""
+        author: "Naela Elmore"
         category: ""
         tag: ""
         exclude_featured: false
