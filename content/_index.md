@@ -161,9 +161,9 @@ sections:
           link: 'https://twitter.com/naelaelmore'
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
+          id: https://formspree.io/f/xayrlqgk
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
