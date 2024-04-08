@@ -7,7 +7,9 @@ summary: This course provides students with a comprehensive overview of the fund
 
 # Link this post with a project
 #projects: 
-url_pdf: uploads/syllabusCP.pdf
+links:
+- name: Syllabus
+  url: uploads/syllabusCP.pdf
 # Date published
 #date: '2020-12-13T00:00:00Z'
 
