@@ -53,7 +53,7 @@ sections:
   
   #Teaching
   - block: collection
-    id: '#teaching'
+    id: teaching
     content:
       title: Teaching Experience
       subtitle: ''
@@ -67,7 +67,7 @@ sections:
       filters:
         folders:
           - teaching
-        author: "Naela Elmore"
+        author: ""
         category: ""
         tag: ""
         exclude_featured: false
