@@ -163,8 +163,8 @@ sections:
       form:
         provider: formspree
         formspree:
-          id: https://formspree.io/f/xayrlqgk
-        #netlify:
+          id: f/xayrlqgk
+        netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
