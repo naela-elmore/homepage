@@ -53,7 +53,7 @@ sections:
   
   #Teaching
   - block: collection
-    id: posts
+    id: teaching
     content:
       title: Teaching Experience
       subtitle: ''
