@@ -53,7 +53,7 @@ sections:
   
   #Teaching
   - block: collection
-    id: teaching
+    id: '#teaching'
     content:
       title: Teaching Experience
       subtitle: ''
