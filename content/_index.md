@@ -79,7 +79,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: card
       columns: '2'
   - block: portfolio
     id: projects
