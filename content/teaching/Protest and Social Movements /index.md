@@ -7,7 +7,9 @@ summary: In this course, students explore the dynamics, strategies, and impacts 
 
 # Link this post with a project
 #projects: 
-url_pdf: uploads/syllabusPSM.pdf
+links:
+- name: Syllabus
+  url: uploads/syllabusPSM.pdf
 # Date published
 #date: '2020-12-13T00:00:00Z'
 
