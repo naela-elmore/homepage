@@ -67,7 +67,7 @@ sections:
       filters:
         folders:
           - teaching
-        author: "admin"
+        author: ""
         category: ""
         tag: ""
         exclude_featured: false
@@ -80,7 +80,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '2'
 
 #Research Projects
