@@ -56,24 +56,24 @@ sections:
     id: teaching
     content:
       title: Teaching Experience
-      subtitle: ''
+      #subtitle: ''
       text: 'In my role as an educator, I have had the privilege of designing and instructing two distinct courses, each tailored to cultivate a deep understanding of key concepts within comparative politics and the dynamics of protests and social movements.
       
       My teaching philosophy centers on fostering critical thinking, analytical skills, and a nuanced understanding of global political systems among students. Through engaging lectures, interactive discussions, and innovative assignments, I aim to empower learners to analyze complex political phenomena, evaluate diverse perspectives, and develop informed opinions.' 
 
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
-      filters:
-        folders:
-          - teaching
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+      #filters:
+       # folders:
+        #  - teaching
+        #author: ""
+        #category: ""
+        #tag: ""
+        #exclude_featured: false
+        #exclude_future: false
+        #exclude_past: false
+        #publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
