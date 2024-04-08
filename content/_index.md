@@ -68,7 +68,6 @@ sections:
         folders:
           - CP
           - Protest and Social Movements
-          
         author: "admin"
         category: ""
         tag: ""
