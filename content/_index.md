@@ -66,7 +66,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - /workspaces/homepage/content/teaching
+          - teaching
         author: ""
         category: ""
         tag: ""
