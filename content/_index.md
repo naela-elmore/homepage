@@ -53,27 +53,26 @@ sections:
   
   #Teaching
   - block: collection
-    id: teaching
+    id: posts
     content:
       title: Teaching Experience
-      #subtitle: ''
-      text: 'In my role as an educator, I have had the privilege of designing and instructing two distinct courses, each tailored to cultivate a deep understanding of key concepts within comparative politics and the dynamics of protests and social movements.
+      subtitle: ''
+      text: 'In my role as an educator, I have had the privilege of designing and instructing three distinct courses, each tailored to cultivate a deep understanding of key concepts in comparative politics and the dynamics of protests and social movements.
       
-      My teaching philosophy centers on fostering critical thinking, analytical skills, and a nuanced understanding of global political systems among students. Through engaging lectures, interactive discussions, and innovative assignments, I aim to empower learners to analyze complex political phenomena, evaluate diverse perspectives, and develop informed opinions.' 
-
+      My teaching philosophy centers on fostering critical thinking, analytical skills, and a nuanced understanding of global political systems among students. Through engaging lectures, interactive discussions, and innovative assignments, I aim to empower learners to analyze complex political phenomena, evaluate diverse perspectives, and develop informed opinions.'
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 5
       # Filter on criteria
-      #filters:
-       # folders:
-        #  - teaching
-        #author: ""
-        #category: ""
-        #tag: ""
-        #exclude_featured: false
-        #exclude_future: false
-        #exclude_past: false
-        #publication_type: ""
+      filters:
+        folders:
+          - posts
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
@@ -82,15 +81,13 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-
-#Research Projects
   - block: portfolio
     id: projects
     content:
       title: Research Projects
       filters:
         folders:
-          - projects
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -113,22 +110,20 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  #- block: collection
-   # id: featured
-    #content:
-     # title: Featured Publications
-      #filters:
-       # folders:
-        #  - publication
-        #featured_only: true
-    #design:
-     # columns: '2'
-      #view: card
-  
-#Publications
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     content:
-      title: Publications
+      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -140,8 +135,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  
-#Conference Talks 
   - block: collection
     id: talks
     content:
