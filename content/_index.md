@@ -67,7 +67,7 @@ sections:
       filters:
         folders:
           - teaching
-        author: ""
+        author: "admin"
         category: ""
         tag: ""
         exclude_featured: false
