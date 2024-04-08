@@ -7,7 +7,7 @@ summary: This course provides students with a comprehensive overview of the fund
 
 # Link this post with a project
 #projects: 
-
+url_pdf: content/teaching/CP/PSCI 4306 Syllabus.pdf
 # Date published
 #date: '2020-12-13T00:00:00Z'
 
@@ -41,4 +41,5 @@ tags:
   #- 教程
 ---
 
-
+# Course Summary
+This course provides students with a comprehensive overview of the fundamental theories, methodologies, and empirical research in the field of comparative politics. Topics covered include state-society relations, political institutions, democratization processes, and comparative methodologies.
