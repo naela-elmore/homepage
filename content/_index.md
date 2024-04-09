@@ -81,7 +81,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
+  - block: portfolio
     id: projects
     content:
       title: Working Research Projects
@@ -106,8 +106,8 @@ sections:
           tag: 'Repression'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+      columns: '2'
+      view: carousal
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   #- block: collection
