@@ -3,7 +3,7 @@ title: Grievance Resurgence - A Sentiment Analysis
 summary: This project delves into the dynamics of civil grievances and social movements in the SWANA region, particularly focusing on Lebanon, to investigate whether historical protest issues resurface in subsequent movements, leveraging social media's impact on citizen participation and grievance expression.
 tags:
   - Protest and Resistance
-date: '2020'
+date: '2020-05-08'
 
 authors: [admin]
 
