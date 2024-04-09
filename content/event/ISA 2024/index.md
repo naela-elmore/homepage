@@ -1,7 +1,7 @@
 ---
 title: Enduring Triumphs - Analyzing The Long-term Impact Of Repressed Nonviolent Resistance Campaigns
 
-event: International Studies Association (ISA)
+event: 2024 International Studies Association (ISA)
 event_url: https://www.isanet.org/Conferences/ISA2024
 
 location: San Francisco 
@@ -12,7 +12,7 @@ location: San Francisco
   #postcode: '94305'
   #country: United States
 
-summary: Why do the successes of some nonviolent resistance campaigns (NVRCs) endure while others do not? This paper explores the effect of state-sponsored repression on nonvio- lent resistance campaigns (NVRCs) by examining successful NVRCs’ campaign policy- objective driven grievance(s) and their resurgence via mobilized efforts. This study explores this conjecture with a qualitative approach, that employs both a comparative case analysis and narrative inquiry.' 
+summary: 'Why do the successes of some nonviolent resistance campaigns (NVRCs) endure while others do not? This paper explores the effect of state-sponsored repression on nonvio- lent resistance campaigns (NVRCs) by examining successful NVRCs’ campaign policy- objective driven grievance(s) and their resurgence via mobilized efforts. This study explores this conjecture with a qualitative approach, that employs both a comparative case analysis and narrative inquiry.' 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
