@@ -17,7 +17,7 @@ doi: 'https://blog.brill.com/display/post/guest-post/podcast/researching-the-cov
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['webpage']
+publication_types: ["Opinion Pieces and Essays"]
 
 # Publication name and optional abbreviated publication name.
 publication: BRILL Blog 
