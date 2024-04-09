@@ -45,3 +45,4 @@ tags:
 
 # Course Summary
 This course provides students with a comprehensive overview of the fundamental theories, methodologies, and empirical research in the field of comparative politics. Topics covered include state-society relations, political institutions, democratization processes, and comparative methodologies.
+{style="text-align: justify;"}

@@ -59,4 +59,4 @@ url_slides: 'uploads/ISA_Presentation.pdf'
 # Abstract 
 
 Why do the successes of some nonviolent resistance campaigns (NVRCs) endure while others do not? This paper explores the effect of state-sponsored repression on nonvio- lent resistance campaigns (NVRCs) by examining successful NVRCs’ campaign policy- objective driven grievance(s) and their resurgence via mobilized efforts. This study explores this conjecture with a qualitative approach, that employs both a comparative case analysis and narrative inquiry. 
-
+{style="text-align: justify;"}
