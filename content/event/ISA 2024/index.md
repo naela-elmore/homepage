@@ -12,7 +12,7 @@ location: San Francisco
   #postcode: '94305'
   #country: United States
 
-summary: 'Why do the successes of some nonviolent resistance campaigns (NVRCs) endure while others do not? This paper explores the effect of state-sponsored repression on nonvio- lent resistance campaigns (NVRCs) by examining successful NVRCs’ campaign policy- objective driven grievance(s) and their resurgence via mobilized efforts. This study explores this conjecture with a qualitative approach, that employs both a comparative case analysis and narrative inquiry.' 
+summary: Paper presentation at ISA 2024 Annual Conference.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,7 +53,10 @@ url_slides: 'uploads/ISA_Presentation.pdf'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - ISA 2024
+
 ---
+
+# Abstract 
+
+Why do the successes of some nonviolent resistance campaigns (NVRCs) endure while others do not? This paper explores the effect of state-sponsored repression on nonvio- lent resistance campaigns (NVRCs) by examining successful NVRCs’ campaign policy- objective driven grievance(s) and their resurgence via mobilized efforts. This study explores this conjecture with a qualitative approach, that employs both a comparative case analysis and narrative inquiry. 
 
