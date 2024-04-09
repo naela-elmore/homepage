@@ -1,5 +1,5 @@
 ---
-title: Enduring Triumphs: Analyzing The Long-term Impact Of Repressed Nonviolent Resistance Campaigns
+title: Enduring Triumphs - Analyzing The Long-term Impact Of Repressed Nonviolent Resistance Campaigns
 
 event: International Studies Association (ISA)
 event_url: https://www.isanet.org/Conferences/ISA2024
