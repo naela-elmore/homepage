@@ -34,7 +34,7 @@ tags:
 featured: false
 
 
-url_pdf: https://brill.com/view/journals/melg/14/1/article-p26_003.xml
+url_pdf: https://blog.brill.com/display/post/guest-post/podcast/researching-the-covid-19-pandemic.xml
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
