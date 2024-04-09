@@ -122,6 +122,7 @@ sections:
      # columns: '2'
       #view: card
   - block: collection
+    id: publication
     content:
       title: Publications
       text: |-
