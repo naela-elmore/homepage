@@ -106,8 +106,8 @@ sections:
           tag: 'Repression'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: carousal
+      columns: '2'
+      view: Carousel
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   #- block: collection
