@@ -104,6 +104,8 @@ sections:
           tag: 'Autocratic Behavior'
         - name: Repression
           tag: 'Repression'
+        - name: Data Collection
+          tag: 'Data Collection'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
