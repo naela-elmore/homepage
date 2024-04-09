@@ -23,7 +23,7 @@ publication_types: ["Opinion Pieces and Essays"]
 publication: BRILL Blog 
 publication_short: BRILL Blog
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In exploring the impact of state fragility on COVID-19 responses, particularly in the Middle East, this opinion piece sheds light on significant disparities in policy reactions. Drawing from data analysis and frameworks by Carment and Osaghae and the CoronaNet Researhc Project, the piece reveals a stark contrast between politically and economically robust countries' measured approach and fragile states' struggles with implementing effective measures. Despite challenges in data transparency, the piece advocates for increased openness and citizen involvement in policymaking to tackle pandemic challenges more effectively. Ultimately, it underscores the urgent need for collaborative efforts and interdisciplinary approaches to navigate the complexities of global crises.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
