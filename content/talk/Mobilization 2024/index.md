@@ -16,12 +16,12 @@ summary: Paper presentation at the Mobilization 2024 Annual Conference.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-08'
-date_end: '2024-03-09'
+date: '2024-07-08'
+date_end: '2024-07-09'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: '2024-04-03T00:00:00Z'
+publishDate: '2024-07-09T00:00:00Z'
 
 authors: [admin]
 #tags: []
