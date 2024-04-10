@@ -146,8 +146,8 @@ sections:
         folders:
           - talk
     design:
-      columns: '3'
-      view: compact
+      #columns: '2'
+      view: list
   - block: contact
     id: contact
     content:
