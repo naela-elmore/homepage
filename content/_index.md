@@ -147,7 +147,7 @@ sections:
           - talk
     design:
       columns: '2'
-      view: list
+      view: showcase
   - block: contact
     id: contact
     content:
