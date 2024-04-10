@@ -29,6 +29,9 @@ authors: [admin]
 # Is this a featured talk? (true/false)
 featured: false
 
+projects:
+- talk
+
 
 
 links:
