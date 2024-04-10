@@ -139,12 +139,12 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: event
+    id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - talk
     design:
       columns: '2'
       view: compact
