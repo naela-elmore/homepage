@@ -84,7 +84,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Working Research Projects
+      title: (Selected) Working Research Projects
       filters:
         folders:
           - projects
@@ -139,7 +139,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: event
     content:
       title: Recent & Upcoming Talks
       filters:
