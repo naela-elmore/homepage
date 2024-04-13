@@ -145,9 +145,9 @@ sections:
       filters:
         folders:
           - talk
-    #design:
-     # columns: '2'
-      #view: compact
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
