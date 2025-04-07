@@ -1,22 +1,12 @@
-- name: Upload artifact
-  uses: actions/upload-artifact@v4
-
+name: Updater
 on:
-  schedule:
-    - cron: 0 0 * * 0
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
-  workflow_dispatch:
-
-# Provide permission to clone the repo and deploy it to GitHub Pages
-permissions:
-  contents: write
+  workflow_dispatch:  # Remove cron if you don't want weekly auto-runs
 
 jobs:
   update:
-    if: github.repository_owner == 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-      - uses: HugoBlox/gh-action-updater@v1
+      - uses: HugoBlox/gh-action-updater@v2  # Updated to v2
         with:
           feed-url: https://hugoblox.com/rss.xml
           readme-section: news
