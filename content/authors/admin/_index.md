@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Naela Elmore Mohamed
+title: Naela Elmore
 
 
 
@@ -127,6 +127,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+##Hello ! اهلا
 
 I am a doctoral candidate at the University of Texas at Dallas's School of [Economic, Political, and Policy Sciences (EPPS)](https://epps.utdallas.edu/). My research interests revolve around the intersection of social resistance dynamics, autocratic behavior, and traditional and digital repression in political activism, with a regional focus on the [Southwest Asian and North African (SWANA)](https://aapirc.ucsc.edu/swana/what-is-swana.html) region. My passion for the study of civil resistance dynamics was ignited by my involvement in the [Tahrir Square protests](https://merip.org/2011/04/the-18-days-of-tahrir/), where witnessing firsthand the power of collective action and non-violent resistance in effecting social change erupted my fervent commitment to understanding the dynamics and complexities of civil resistance movements.
 {style="text-align: justify;"}

@@ -1,4 +1,4 @@
-name: Updater
+name: Updater (WIP)
 on:
   workflow_dispatch:  # Remove cron if you don't want weekly auto-runs
 
