@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Naela Elmore Mohamd
+title: Naela Elmore Mohamed
 
 
 
