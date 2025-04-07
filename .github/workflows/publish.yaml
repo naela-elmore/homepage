@@ -49,7 +49,7 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
       run: |
-        echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
+        echo "Hugo Cache Dir: $(hugo pagination.pagerSize | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
