@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ella Elmore
+title: Naela Elmore
 
 
 
