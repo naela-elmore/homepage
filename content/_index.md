@@ -165,13 +165,13 @@ sections:
           name: DM Me
           link: 'https://twitter.com/naelaelmore'
       # Email form provider
-      form:
-        provider: formspree
-        formspree:
-          id: f/xayrlqgk
-        netlify:
+      #form:
+        #provider: formspree
+       # formspree:
+          #id: f/xayrlqgk
+        #netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          #captcha: false
     design:
       columns: '2'
 ---
