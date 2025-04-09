@@ -48,7 +48,8 @@ jobs:
             ${{ runner.os }}-hugo-
 
       - name: Build with Hugo
-        run: hugo --minify
+        run: |
+           hugo --minify --config config.yaml
 
       - name: Verify build output
         run: ls -la public/

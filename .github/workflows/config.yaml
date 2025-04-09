@@ -1,0 +1,13 @@
+baseURL: "https://naela-elmore.github.io/homepage"  # Your GitHub Pages URL
+languageCode: "en-us"
+title: "Naela Elmore"
+
+services:
+  googleAnalytics:
+    ID: ""  # Explicitly disable to prevent errors
+
+pagination:
+  pageSize: 10  # Replaces deprecated 'paginate' setting
+
+build:
+  ignoreErrors: ["error-deprecated"]  # Temporary workaround
